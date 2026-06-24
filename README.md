@@ -2,6 +2,7 @@
 
 An automated environmental tracking architecture combining an Arduino board with a DHT20 sensor to monitor real-time temperature/humidity boundaries and map live data visualization trends.
 
+[Read Full Project Documentation](./Water%20Project%20Documentation.pdf)
 ---
 
 ## Hardware Setup & Prototyping
